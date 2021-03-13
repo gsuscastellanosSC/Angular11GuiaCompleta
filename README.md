@@ -62,6 +62,8 @@
     13. *ngIf
 # Class#14
     14. ngStyle
+# Class#15
+    15. ngClass
 # Links
     Bootstrap:
         https://getbootstrap.com/
