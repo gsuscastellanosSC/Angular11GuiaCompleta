@@ -14,6 +14,23 @@
         ng serve --o
 # Class#3
     3. Estructura de Carpetas
+# Class#4    
+    4. Qué es Angular?
+        * Angular != AngularJS
+        * Framework para crear SPA
+        * Es opensource y desarrollado por Google
+        * Separación total de FrontEnd y BackEnd
+        * Utiliza el patrón MVC
+        * Está basado en TypeScript
+        * Está basado en componentes
+        * Utiliza el Angular-CLI
+        * Es un framework completo
+        * Cada 6 meses libera nuevas versiones
+            X.Y.Z
+            | | |
+        * Está basada en la biblioteca RxJS
+        * Es amigable con Ionic y NativeScript(Aplicaciones móviles híbridas)
+        * Angular Universal
 # Links
     Angular 9: Estructura de carpetas para una aplicación escalable:
         https://medium.com/williambastidasblog/angular-9-estructura-de-carpetas-de-para-una-aplicaci%C3%B3n-escalable-a34ab5dd6aaa
