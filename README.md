@@ -38,6 +38,8 @@
     6. ¿Qué es el Databinding?
 # Class#7
     7. Interpolación
+# Class#8    
+    8. Property Binding
 # Links
     Bootstrap:
         https://getbootstrap.com/
