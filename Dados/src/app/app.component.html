@@ -1,6 +1,6 @@
 <div class="jumbotron text-center">
-    <button class="btn btn-success btn-lg">Tirar dados</button>
+    <button class="btn btn-success btn-lg" (click)="tirarDados()">Tirar dados</button>
     <br>
-    <img class="img" src="../assets/img/dice1.png" alt="Dado 1">
-    <img class="img" src="../assets/img/dice2.png" alt="Dado 2">
+    <img class="img" [src]="dadoLeft" alt="dadoLeft">
+    <img class="img" [src]="dadoRight" alt="Dado 2">
 </div>

@@ -88,6 +88,8 @@
     23. Que vamos a hacer?
 # Class#24
     24. Dados HTML
+# Class#25
+    25. Dados -Random() - Parte 1
 # Links
     Netlify:
         https://www.netlify.com/
