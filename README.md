@@ -81,6 +81,9 @@
 # Class#21    
     21. Deploy a Netifly
         ng build --prod
+# Class#22
+    22. Descarga del proyecto - npm install
+        npm install
 # Links
     Netlify:
         https://www.netlify.com/
