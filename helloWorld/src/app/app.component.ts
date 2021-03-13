@@ -24,6 +24,12 @@ export class AppComponent {
   cambiarTexto(): void{
     alert('En el proximo vamos a ver Two way data-binding');
   }
-  
+
   texto2 = ''
+
+  listEstudiantes: any[] = [
+    {nombre : 'sc1', estado: 'Exelente'},
+    {nombre : 'sc2', estado: 'Exelente'},
+    {nombre : 'sc3', estado: 'Exelente'}
+  ]
 }

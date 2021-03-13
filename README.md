@@ -56,6 +56,8 @@
                 * nglf
                 * ngFor
                 * ngSwitch
+# Class#12
+    12. *ngFor
 # Links
     Bootstrap:
         https://getbootstrap.com/
