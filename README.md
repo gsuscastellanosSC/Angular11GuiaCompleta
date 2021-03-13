@@ -42,8 +42,20 @@
     8. Property Binding
 # Class#9
     9. Event Binding
-# Class#10    
+# Class#10
     10. Two Way Data Binding
+# Class#11
+    11. ¿Qué son las Directivas?
+        Son elementos que nos permite modificar el comportamiento del DOM
+        Directivas:
+            * Componente
+            * Atributo
+                * ngClass
+                * ngStyle
+            * Estructurales
+                * nglf
+                * ngFor
+                * ngSwitch
 # Links
     Bootstrap:
         https://getbootstrap.com/
