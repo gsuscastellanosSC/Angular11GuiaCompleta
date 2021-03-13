@@ -31,9 +31,11 @@
         * Está basada en la biblioteca RxJS
         * Es amigable con Ionic y NativeScript(Aplicaciones móviles híbridas)
         * Angular Universal
-# Class#5        
-        5. Configuración bootstrap mediante CDN y NPM
-            npm install bootstrap@next
+# Class#5      
+    5. Configuración bootstrap mediante CDN y NPM
+        npm install bootstrap@next
+# Class#6
+    6. ¿Qué es el Databinding?
 # Links
     Bootstrap:
         https://getbootstrap.com/
