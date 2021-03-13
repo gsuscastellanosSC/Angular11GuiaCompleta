@@ -14,7 +14,7 @@
         ng serve --o
 # Class#3
     3. Estructura de Carpetas
-# Class#4    
+# Class#4
     4. Qué es Angular?
         * Angular != AngularJS
         * Framework para crear SPA
@@ -31,7 +31,12 @@
         * Está basada en la biblioteca RxJS
         * Es amigable con Ionic y NativeScript(Aplicaciones móviles híbridas)
         * Angular Universal
+# Class#5        
+        5. Configuración bootstrap mediante CDN y NPM
+            npm install bootstrap@next
 # Links
+    Bootstrap:
+        https://getbootstrap.com/
     Angular 9: Estructura de carpetas para una aplicación escalable:
         https://medium.com/williambastidasblog/angular-9-estructura-de-carpetas-de-para-una-aplicaci%C3%B3n-escalable-a34ab5dd6aaa
     How install node js:
