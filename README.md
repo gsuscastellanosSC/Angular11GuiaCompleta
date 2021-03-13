@@ -33,7 +33,11 @@
         * Angular Universal
 # Class#5      
     5. Configuración bootstrap mediante CDN y NPM
+        index.html:
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
         npm install bootstrap@next
+        styles.css:
+            @import '~bootstrap/dist/css/bootstrap.min.css';
 # Class#6
     6. ¿Qué es el Databinding?
 # Class#7
@@ -68,6 +72,8 @@
     16. *ngSwitch
 # Class#17
     17. Que vamos a hacer?
+# Class#18
+    18. Configuración Bootstrap - Agregamos sonidos al proyecto
 # Links
     Bootstrap:
         https://getbootstrap.com/
