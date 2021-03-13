@@ -84,6 +84,8 @@
 # Class#22
     22. Descarga del proyecto - npm install
         npm install
+# Class#23    
+    23. Que vamos a hacer?
 # Links
     Netlify:
         https://www.netlify.com/
