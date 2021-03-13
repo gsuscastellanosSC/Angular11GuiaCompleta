@@ -12,8 +12,12 @@
             vscode-icons
             eslint
         ng serve --o
+# Class#3
+    3. Estructura de Carpetas
 # Links
+    Angular 9: Estructura de carpetas para una aplicación escalable:
+        https://medium.com/williambastidasblog/angular-9-estructura-de-carpetas-de-para-una-aplicaci%C3%B3n-escalable-a34ab5dd6aaa
     How install node js:
         https://nodejs.dev/
     How install angular CLI:
-        https://cli.angular.io/    
+        https://cli.angular.io/  
