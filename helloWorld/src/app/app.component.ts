@@ -28,8 +28,8 @@ export class AppComponent {
   texto2 = ''
 
   listEstudiantes: any[] = [
-    {nombre : 'sc1', estado: 'Exelente'},
-    {nombre : 'sc2', estado: 'Exelente'},
+    {nombre : 'sc1', estado: 'Regular'},
+    {nombre : 'sc2', estado: 'Bueno'},
     {nombre : 'sc3', estado: 'Exelente'}
   ]
 
