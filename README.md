@@ -58,6 +58,8 @@
                 * ngSwitch
 # Class#12
     12. *ngFor
+# Class#13    
+    13. *ngIf
 # Links
     Bootstrap:
         https://getbootstrap.com/

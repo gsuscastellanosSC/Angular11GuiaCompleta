@@ -32,4 +32,9 @@ export class AppComponent {
     {nombre : 'sc2', estado: 'Exelente'},
     {nombre : 'sc3', estado: 'Exelente'}
   ]
+
+  mostrar = true;
+  toogle(): void{
+    this.mostrar = !this.mostrar
+  }
 }
