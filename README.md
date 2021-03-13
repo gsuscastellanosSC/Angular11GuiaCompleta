@@ -78,7 +78,12 @@
     19. Piano HTML
 # Class#20
     20. Emitir Sonido
+# Class#21    
+    21. Deploy a Netifly
+        ng build --prod
 # Links
+    Netlify:
+        https://www.netlify.com/
     Bootstrap:
         https://getbootstrap.com/
     Angular 9: Estructura de carpetas para una aplicación escalable:
