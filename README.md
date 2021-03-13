@@ -42,6 +42,8 @@
     8. Property Binding
 # Class#9
     9. Event Binding
+# Class#10    
+    10. Two Way Data Binding
 # Links
     Bootstrap:
         https://getbootstrap.com/

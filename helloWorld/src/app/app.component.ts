@@ -24,4 +24,6 @@ export class AppComponent {
   cambiarTexto(): void{
     alert('En el proximo vamos a ver Two way data-binding');
   }
+  
+  texto2 = ''
 }
