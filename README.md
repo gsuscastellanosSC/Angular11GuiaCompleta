@@ -76,6 +76,8 @@
     18. Configuración Bootstrap - Agregamos sonidos al proyecto
 # Class#19
     19. Piano HTML
+# Class#20
+    20. Emitir Sonido
 # Links
     Bootstrap:
         https://getbootstrap.com/
