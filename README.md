@@ -36,6 +36,8 @@
         npm install bootstrap@next
 # Class#6
     6. ¿Qué es el Databinding?
+# Class#7
+    7. Interpolación
 # Links
     Bootstrap:
         https://getbootstrap.com/
