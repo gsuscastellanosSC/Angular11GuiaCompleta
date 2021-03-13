@@ -64,6 +64,8 @@
     14. ngStyle
 # Class#15
     15. ngClass
+# Class#16    
+    16. *ngSwitch
 # Links
     Bootstrap:
         https://getbootstrap.com/

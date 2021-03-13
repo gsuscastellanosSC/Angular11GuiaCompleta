@@ -30,7 +30,8 @@ export class AppComponent {
   listEstudiantes: any[] = [
     {nombre : 'sc1', estado: 'Regular'},
     {nombre : 'sc2', estado: 'Bueno'},
-    {nombre : 'sc3', estado: 'Exelente'}
+    {nombre : 'sc3', estado: 'Exelente'},
+    {nombre : 'sc4', estado: 'Libre'}
   ]
 
   mostrar = true;

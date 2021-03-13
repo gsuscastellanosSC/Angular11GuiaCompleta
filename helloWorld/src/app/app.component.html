@@ -114,3 +114,41 @@
     </table>
     <h3 *ngIf="listEstudiantes.length==0">No hay registros para mostrar</h3>
 </div>
+
+
+
+<br>
+<div class="container mt-4">
+    <div class="row">
+        <h3>Listado de estudiantes ngSwitch</h3>
+    </div>
+    <br>
+    <table class="table" *ngIf="mostrar && listEstudiantes.length > 0">
+        <thead>
+            <th>Nro</th>
+            <th>Nombre</th>
+            <th>Estado</th>
+        </thead>
+        <tbody>
+            <tr *ngFor="let estudiante of listEstudiantes; let i = index" [ngSwitch]="estudiante.estado">
+                <td> {{ i+1 }} </td>
+                <td>{{ estudiante.nombre }}</td>
+                <td>
+                    <span *ngSwitchCase=" 'Regular'" class="text text-danger">
+                        {{ estudiante.estado }}
+                    </span>
+                    <span *ngSwitchCase=" 'Bueno'" class="text text-secondary">
+                        {{ estudiante.estado }}
+                    </span>
+                    <span *ngSwitchCase=" 'Exelente'" class="text text-success">
+                        {{ estudiante.estado }}
+                    </span>
+                    <span *ngSwitchCase=" 'Libre'" class="text text-info">
+                        {{ estudiante.estado }}
+                    </span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h3 *ngIf="listEstudiantes.length==0">No hay registros para mostrar</h3>
+</div>
