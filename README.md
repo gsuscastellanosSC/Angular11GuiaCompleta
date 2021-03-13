@@ -86,6 +86,8 @@
         npm install
 # Class#23    
     23. Que vamos a hacer?
+# Class#24
+    24. Dados HTML
 # Links
     Netlify:
         https://www.netlify.com/
