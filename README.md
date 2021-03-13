@@ -74,6 +74,8 @@
     17. Que vamos a hacer?
 # Class#18
     18. Configuración Bootstrap - Agregamos sonidos al proyecto
+# Class#19
+    19. Piano HTML
 # Links
     Bootstrap:
         https://getbootstrap.com/
