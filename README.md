@@ -131,6 +131,11 @@
             .
             .
             .
+# Class#30
+    30. Creando Componentes a través del Angular CLI Parte 1
+            ng generate component nameComponent
+            ng g c nameComponent
+            ng g c --help
 # Links
     Netlify:
         https://www.netlify.com/
