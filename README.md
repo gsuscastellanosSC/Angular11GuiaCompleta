@@ -95,10 +95,42 @@
 # Class#27
     27. Deploy
         ng build --prod
-# Class#28    
+# Class#28
     28. Qué es un Componente?
         ng generate component nameComponent
         ng g c nameComponent
+# Class#29
+    29. Creando Componente Manualmente
+        Create: 
+            folder nameComponet
+            File:
+                nameComponet.component.ts:
+                    import { Component } from '@angular/core';
+                    @Component({
+                    selector: 'app-nameComponet',
+                    templateUrl: 'nameComponet.component.html',
+                    styleUrls: ['nameComponet.component.css']
+                    })
+                    export class DasboardManualComponent {
+                    }
+                nameComponet.componet.css
+                    #css
+                nameComponet.componet.html
+                    <!-- html  -->
+        2. include component in app.module.ts
+            @NgModule({
+                declarations: [
+                AppComponent,
+                nameComponet1,
+                nameComponet2,
+                .
+                .
+                .
+                nameComponetN
+            ],
+            .
+            .
+            .
 # Links
     Netlify:
         https://www.netlify.com/

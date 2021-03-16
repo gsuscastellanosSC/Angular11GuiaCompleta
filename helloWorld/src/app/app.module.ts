@@ -4,11 +4,13 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { DasboardComponent } from './dasboard/dasboard.component';
+import { DasboardManualComponent } from './dasboardManual/dasboardManual.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    DasboardComponent
+    DasboardComponent,
+    DasboardManualComponent
   ],
   imports: [
     BrowserModule,
