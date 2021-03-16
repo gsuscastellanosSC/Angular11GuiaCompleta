@@ -95,6 +95,10 @@
 # Class#27
     27. Deploy
         ng build --prod
+# Class#28    
+    28. Qué es un Componente?
+        ng generate component nameComponent
+        ng g c nameComponent
 # Links
     Netlify:
         https://www.netlify.com/
