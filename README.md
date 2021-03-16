@@ -90,8 +90,11 @@
     24. Dados HTML
 # Class#25
     25. Dados -Random() - Parte 1
-# Class#26    
+# Class#26
     26. Dados - Random() - Parte 2
+# Class#27
+    27. Deploy
+        ng build --prod
 # Links
     Netlify:
         https://www.netlify.com/
