@@ -148,9 +148,13 @@
     34. Imagen de fondo y estilos CSS
 # Class#35
     35. Agregar Tarea - Parte 1
-# Class#36    
+# Class#36
     36. Agregar Tarea - Parte 2
+# Class#37    
+    37. Agregamos font awesome y iconos
 # Links
+    Fontawesome:
+        https://fontawesome.com/start/
     Pixabay:
         https://pixabay.com/es/
     Netlify:
