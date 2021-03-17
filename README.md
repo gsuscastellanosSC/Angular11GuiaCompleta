@@ -139,9 +139,11 @@
 # Class#31
     31. Creando Componentes a través del Angular CLI Parte 2
         ng g c nameComponet/sonNameComponet
-# Class#32    
+# Class#32
     32. ¿Qué vamos a hacer? y Creación del proyecto
         ng new tareas
+# Class#33
+    33. Creación de componentes - Trabajando en el HTML
 # Links
     Netlify:
         https://www.netlify.com/
