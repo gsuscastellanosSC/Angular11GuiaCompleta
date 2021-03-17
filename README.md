@@ -156,6 +156,9 @@
     38. Eliminar Tarea
 # Class#39
     39. Actualizar Tarea
+# Class#40
+    40. Deploy
+        ng build --prod
 # Links
     Fontawesome:
         https://fontawesome.com/start/
