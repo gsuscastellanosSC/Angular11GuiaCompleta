@@ -7,6 +7,8 @@ import { DasboardComponent } from './dasboard/dasboard.component';
 import { DasboardManualComponent } from './dasboardManual/dasboardManual.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
+import { TablaComponent } from './dasboard/tabla/tabla.component';
+import { ListaComponent } from './dasboard/lista/lista.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +16,9 @@ import { FooterComponent } from './footer/footer.component';
     DasboardComponent,
     DasboardManualComponent,
     NavbarComponent,
-    FooterComponent
+    FooterComponent,
+    TablaComponent,
+    ListaComponent
   ],
   imports: [
     BrowserModule,

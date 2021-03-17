@@ -136,6 +136,9 @@
             ng generate component nameComponent
             ng g c nameComponent
             ng g c --help
+# Class#31
+    31. Creando Componentes a través del Angular CLI Parte 2
+        ng g c nameComponet/sonNameComponet
 # Links
     Netlify:
         https://www.netlify.com/
