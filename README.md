@@ -144,7 +144,11 @@
         ng new tareas
 # Class#33
     33. Creación de componentes - Trabajando en el HTML
+# Class#34    
+    34. Imagen de fondo y estilos CSS
 # Links
+    Pixabay:
+        https://pixabay.com/es/
     Netlify:
         https://www.netlify.com/
     Bootstrap:
