@@ -154,6 +154,8 @@
     37. Agregamos font awesome y iconos
 # Class#38
     38. Eliminar Tarea
+# Class#39
+    39. Actualizar Tarea
 # Links
     Fontawesome:
         https://fontawesome.com/start/

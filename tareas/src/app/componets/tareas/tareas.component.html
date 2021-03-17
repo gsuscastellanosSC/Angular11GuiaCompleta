@@ -10,7 +10,9 @@
             <ul class="list-group">
                 <li *ngFor="let tarea of listTareas; let i = index" class="list-group-item d-flex justify-content-between">
                     <span class="cursor">
-                        <i class="far fa-circle"></i>
+                        <i [class.text-success]="tarea.estado" [ngClass]="tarea.estado?'fas fa-check-circle':'far fa-circle'" (click)="actualizarTarea(tarea, i)"></i>
+                        <!-- <i *ngIf="tarea.estado === false" class="far fa-circle" (click)="actualizarTarea(tarea, i)"></i>
+                        <i *ngIf="tarea.estado === true" class="fas fa-check-circle" (click)="actualizarTarea(tarea, i)"></i> -->
                     </span> {{ tarea.nombre }}
                     <span class="cursor text-danger" (click)="eliminarTarea(i)">
                         <i class="far fa-trash-alt"></i>
