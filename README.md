@@ -144,8 +144,10 @@
         ng new tareas
 # Class#33
     33. Creación de componentes - Trabajando en el HTML
-# Class#34    
+# Class#34
     34. Imagen de fondo y estilos CSS
+# Class#35
+    35. Agregar Tarea - Parte 1
 # Links
     Pixabay:
         https://pixabay.com/es/
