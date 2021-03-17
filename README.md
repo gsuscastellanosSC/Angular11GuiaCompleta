@@ -148,6 +148,8 @@
     34. Imagen de fondo y estilos CSS
 # Class#35
     35. Agregar Tarea - Parte 1
+# Class#36    
+    36. Agregar Tarea - Parte 2
 # Links
     Pixabay:
         https://pixabay.com/es/
