@@ -172,6 +172,8 @@
     45. Bind variables
 # Class#46    
     46. Método convertir
+# Class#47    
+    47. Pipe total - Deploy
 # Links
     Fontawesome:
         https://fontawesome.com/start/
