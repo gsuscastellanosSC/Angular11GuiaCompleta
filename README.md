@@ -166,8 +166,10 @@
         ng generate component componets/convertidor
 # Class#43
     43. HTML Convertidor
-# Class#44    
+# Class#44
     44. Agregamos imagen de fondo
+# Class#45    
+    45. Bind variables
 # Links
     Fontawesome:
         https://fontawesome.com/start/
