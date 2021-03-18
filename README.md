@@ -159,6 +159,8 @@
 # Class#40
     40. Deploy
         ng build --prod
+# Class#41
+    41. Que vamos a hacer? - Creación del proyecto
 # Links
     Fontawesome:
         https://fontawesome.com/start/
