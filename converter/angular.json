@@ -6,13 +6,9 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "convertidor": {
+    "converter": {
       "projectType": "application",
-      "schematics": {
-        "@schematics/angular:application": {
-          "strict": true
-        }
-      },
+      "schematics": {},
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -20,7 +16,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/convertidor",
+            "outputPath": "dist/converter",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -53,13 +49,13 @@
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "500kb",
-                  "maximumError": "1mb"
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
                 },
                 {
                   "type": "anyComponentStyle",
-                  "maximumWarning": "2kb",
-                  "maximumError": "4kb"
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
                 }
               ]
             }
@@ -68,18 +64,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "convertidor:build"
+            "browserTarget": "converter:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "convertidor:build:production"
+              "browserTarget": "converter:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "convertidor:build"
+            "browserTarget": "converter:build"
           }
         },
         "test": {
@@ -116,16 +112,16 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "convertidor:serve"
+            "devServerTarget": "converter:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "convertidor:serve:production"
+              "devServerTarget": "converter:serve:production"
             }
           }
         }
       }
     }
   },
-  "defaultProject": "convertidor"
+  "defaultProject": "converter"
 }

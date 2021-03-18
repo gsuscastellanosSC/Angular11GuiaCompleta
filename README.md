@@ -161,6 +161,9 @@
         ng build --prod
 # Class#41
     41. Que vamos a hacer? - Creación del proyecto
+# Class#42    
+    42. Creación de componentes - Navbar HTML
+        ng generate component componets/convertidor
 # Links
     Fontawesome:
         https://fontawesome.com/start/
