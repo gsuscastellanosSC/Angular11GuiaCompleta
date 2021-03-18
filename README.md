@@ -168,8 +168,10 @@
     43. HTML Convertidor
 # Class#44
     44. Agregamos imagen de fondo
-# Class#45    
+# Class#45
     45. Bind variables
+# Class#46    
+    46. Método convertir
 # Links
     Fontawesome:
         https://fontawesome.com/start/
