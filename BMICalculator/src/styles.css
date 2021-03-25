@@ -18,6 +18,7 @@ body {
 .bnt-color {
     background-color: #FF3366;
     border-color: #FF3366;
+    color: white;
     border-radius: 25px;
     width: 100%;
 }
