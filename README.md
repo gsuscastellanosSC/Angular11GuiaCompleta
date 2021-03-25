@@ -197,6 +197,17 @@
     56. Altura Dinámico
 # Class#57
     57. Sexo Dinámico
+# Class#58    
+    58. Routing
+        app-routing.module.ts
+            const routes: Routes = [
+              {path: '', component: InicioComponent},
+              {path: 'resultado', component: ResultadoComponent}
+            ];
+        app.component.html
+            <router-outlet></router-outlet>
+        inicio.componet.html
+            routerLink="/resultado"
 # Links
     Font-awesome:
         https://cdnjs.com/libraries/font-awesome

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-inicio',
@@ -11,7 +12,7 @@ export class InicioComponent implements OnInit {
   altura = 170;
   sexo = '';
 
-  constructor() { }
+  constructor(private router: Router) { }
 
   ngOnInit(): void {
   }
@@ -26,6 +27,10 @@ export class InicioComponent implements OnInit {
 
   femenino(): void {
     this.sexo = 'Femenino';
+  }
+
+  calcularBMI(): void{
+    this.router.navigate(['/resultado']);
   }
 
 
