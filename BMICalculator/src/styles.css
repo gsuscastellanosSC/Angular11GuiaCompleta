@@ -14,3 +14,15 @@ body {
 .row {
     margin-top: 20px;
 }
+
+.bnt-color {
+    background-color: #FF3366;
+    border-color: #FF3366;
+    border-radius: 25px;
+    width: 100%;
+}
+
+.bnt-color:hover {
+    background-color: #FF3366;
+    border-color: #FF3366;
+}

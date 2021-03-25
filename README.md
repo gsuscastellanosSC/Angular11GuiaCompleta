@@ -183,6 +183,8 @@
 # Class#50    
     50. Creación de componentes - Agregamos Bootstrap y Google fonts
         ng g c componets/inicio
+# Class#51    
+    51. Maquetamos Inicio Component
 # Links
     Fontawesome:
         https://fontawesome.com/start/
