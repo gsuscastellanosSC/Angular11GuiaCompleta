@@ -191,8 +191,10 @@
     53. Altura HTML
 # Class#54
     54. Peso Edad - HTML
-# Class#54
+# Class#55
     55. Peso Edad - Dinámico
+# Class#56    
+    56. Altura Dinámico
 # Links
     Font-awesome:
         https://cdnjs.com/libraries/font-awesome
