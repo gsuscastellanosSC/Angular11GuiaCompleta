@@ -176,6 +176,10 @@
     47. Pipe total - Deploy
 # Class#48
     48. Que vamos a hacer?
+# Class#49    
+    49. Creación del Proyecto
+        ng new BMICalculator
+        ng gn serve --o
 # Links
     Fontawesome:
         https://fontawesome.com/start/
