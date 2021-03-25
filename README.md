@@ -180,6 +180,9 @@
     49. Creación del Proyecto
         ng new BMICalculator
         ng gn serve --o
+# Class#50    
+    50. Creación de componentes - Agregamos Bootstrap y Google fonts
+        ng g c componets/inicio
 # Links
     Fontawesome:
         https://fontawesome.com/start/
