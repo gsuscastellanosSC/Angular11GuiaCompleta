@@ -187,6 +187,12 @@
     51. Maquetamos Inicio Component
 # Class#52    
     52. Sexo HTML
+# Class#53
+    53. Altura HTML
+# Class#54
+    54. Peso Edad - HTML
+# Class#54
+    55. Peso Edad - Dinámico
 # Links
     Font-awesome:
         https://cdnjs.com/libraries/font-awesome
