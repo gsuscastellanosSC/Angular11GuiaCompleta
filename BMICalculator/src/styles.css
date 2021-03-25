@@ -26,3 +26,11 @@ body {
     background-color: #FF3366;
     border-color: #FF3366;
 }
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    height: 100%;
+}

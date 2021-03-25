@@ -185,7 +185,11 @@
         ng g c componets/inicio
 # Class#51    
     51. Maquetamos Inicio Component
+# Class#52    
+    52. Sexo HTML
 # Links
+    Font-awesome:
+        https://cdnjs.com/libraries/font-awesome
     Fontawesome:
         https://fontawesome.com/start/
     Pixabay:
