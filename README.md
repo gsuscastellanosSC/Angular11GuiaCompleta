@@ -174,6 +174,8 @@
     46. Método convertir
 # Class#47    
     47. Pipe total - Deploy
+# Class#48
+    48. Que vamos a hacer?
 # Links
     Fontawesome:
         https://fontawesome.com/start/
