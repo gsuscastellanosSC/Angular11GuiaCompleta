@@ -195,6 +195,8 @@
     55. Peso Edad - Dinámico
 # Class#56    
     56. Altura Dinámico
+# Class#57
+    57. Sexo Dinámico
 # Links
     Font-awesome:
         https://cdnjs.com/libraries/font-awesome
