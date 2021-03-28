@@ -210,6 +210,8 @@
             routerLink="/resultado"
 # Class#59
     59. ResultadoComponent HTML
+# Class#60
+    60. Calculo Indice de Masa Corporal - Pasamos BMI a ResultadoComponent
 # Links
     Font-awesome:
         https://cdnjs.com/libraries/font-awesome
