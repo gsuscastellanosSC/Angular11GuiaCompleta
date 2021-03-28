@@ -214,6 +214,9 @@
     60. Calculo Indice de Masa Corporal - Pasamos BMI a ResultadoComponent
 # Class#61
     61. Resultado Component - Mostramos Resultado
+# 62. Deploy
+    62. Deploy
+        ng build --prod
 # Links
     Font-awesome:
         https://cdnjs.com/libraries/font-awesome
