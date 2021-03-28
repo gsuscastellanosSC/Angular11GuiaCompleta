@@ -208,6 +208,8 @@
             <router-outlet></router-outlet>
         inicio.componet.html
             routerLink="/resultado"
+# Class#59
+    59. ResultadoComponent HTML
 # Links
     Font-awesome:
         https://cdnjs.com/libraries/font-awesome
