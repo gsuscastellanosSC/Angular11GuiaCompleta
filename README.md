@@ -212,6 +212,8 @@
     59. ResultadoComponent HTML
 # Class#60
     60. Calculo Indice de Masa Corporal - Pasamos BMI a ResultadoComponent
+# Class#61
+    61. Resultado Component - Mostramos Resultado
 # Links
     Font-awesome:
         https://cdnjs.com/libraries/font-awesome
