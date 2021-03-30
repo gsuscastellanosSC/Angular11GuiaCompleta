@@ -2,8 +2,8 @@
     https://www.udemy.com/course/angular-10-fundamentos-8-app/learn/lecture/20783856?start=15#overview
 # Class#1
     1. Instalaciones necesarias
-         node --version
-         ng --version
+         node --version && ng --version
+         sudo apt install -y npm nodejs && npm install -g @angular/cli;
 # Class#2
     2. Hola Mundo
         ng -help
