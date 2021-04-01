@@ -227,6 +227,8 @@
     65. Creación de componentes y uigradients
 # Class#66
     66. Radio Buttons HTML
+# Class#67
+    67. List Empleados HTML y TS
 # Links
     Uigradients:
         https://uigradients.com/
