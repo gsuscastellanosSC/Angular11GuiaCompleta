@@ -214,9 +214,13 @@
     60. Calculo Indice de Masa Corporal - Pasamos BMI a ResultadoComponent
 # Class#61
     61. Resultado Component - Mostramos Resultado
-# 62. Deploy
+# Class#62
     62. Deploy
-        ng build --prod
+        npm install @sentry/angular;
+        ng build --prod;
+# Class#63
+    63. ¿Qué vamos a hacer?
+        como pasar datos entre componetes hijos.
 # Links
     Font-awesome:
         https://cdnjs.com/libraries/font-awesome
