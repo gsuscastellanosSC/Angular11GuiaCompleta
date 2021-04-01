@@ -229,6 +229,8 @@
     66. Radio Buttons HTML
 # Class#67
     67. List Empleados HTML y TS
+# Class#68
+    68. GetTotal() - GetMasculinos y GetFemeninos()
 # Links
     Uigradients:
         https://uigradients.com/
