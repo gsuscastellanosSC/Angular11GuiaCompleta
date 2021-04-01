@@ -222,8 +222,12 @@
     63. ¿Qué vamos a hacer?
         como pasar datos entre componetes hijos.
 # Class#64
-   64. Creación del proyecto 
+   64. Creación del proyecto
+# Class#65   
+   65. Creación de componentes y uigradients
 # Links
+    Uigradients:
+        https://uigradients.com/
     Font-awesome:
         https://cdnjs.com/libraries/font-awesome
     Fontawesome:
