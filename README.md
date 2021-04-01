@@ -222,9 +222,11 @@
     63. ¿Qué vamos a hacer?
         como pasar datos entre componetes hijos.
 # Class#64
-   64. Creación del proyecto
-# Class#65   
-   65. Creación de componentes y uigradients
+    64. Creación del proyecto
+# Class#65
+    65. Creación de componentes y uigradients
+# Class#66
+    66. Radio Buttons HTML
 # Links
     Uigradients:
         https://uigradients.com/
