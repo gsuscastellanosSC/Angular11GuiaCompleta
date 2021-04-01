@@ -231,6 +231,8 @@
     67. List Empleados HTML y TS
 # Class#68
     68. GetTotal() - GetMasculinos y GetFemeninos()
+# Class#69
+    69. Filtro Grilla
 # Links
     Uigradients:
         https://uigradients.com/
