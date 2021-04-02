@@ -233,7 +233,11 @@
     68. GetTotal() - GetMasculinos y GetFemeninos()
 # Class#69
     69. Filtro Grilla
+# Class#70    
+    70. Refactorizando código - @Input
 # Links
+    Inputs-outputs:
+        https://angular.io/guide/inputs-outputs
     Uigradients:
         https://uigradients.com/
     Font-awesome:
