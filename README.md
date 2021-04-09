@@ -241,6 +241,9 @@
     72. Deploy
 # Class#73
     73. Que vamos a hacer?
+# Class#74
+    74. Creación del proyecto
+        npm cache clean --force
 # Links
     Inputs-outputs:
         https://angular.io/guide/inputs-outputs
@@ -261,4 +264,4 @@
     How install node js:
         https://nodejs.dev/
     How install angular CLI:
-        https://cli.angular.io/  
+        https://cli.angular.io/
