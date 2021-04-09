@@ -239,6 +239,8 @@
     71. Refactorizando código - @Output
 # Class#72
     72. Deploy
+# Class#73
+    73. Que vamos a hacer?
 # Links
     Inputs-outputs:
         https://angular.io/guide/inputs-outputs
