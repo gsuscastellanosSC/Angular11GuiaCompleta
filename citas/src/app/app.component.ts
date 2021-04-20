@@ -12,4 +12,8 @@ export class AppComponent {
   agregarCita(cita: any) {
     this.listDate.push(cita);
   }
+
+  eliminarCitaListado(intex: number) {
+    this.listDate.splice(intex, 1);
+  }
 }

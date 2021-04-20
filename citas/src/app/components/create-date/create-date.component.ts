@@ -34,7 +34,7 @@ export class CreateDateComponent implements OnInit {
     }
     console.log(CITA);
     this.listDate.emit(CITA);
-    this.resetCampos();
+    //this.resetCampos();
   }
   resetCampos() {
     this.nombre = '';

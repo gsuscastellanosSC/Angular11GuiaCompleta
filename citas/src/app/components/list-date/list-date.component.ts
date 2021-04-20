@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 
 @Component({
   selector: 'app-list-date',
@@ -7,9 +7,13 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class ListDateComponent implements OnInit {
   @Input() listadoDecitas: any;
+  @Output() deleteCita = new EventEmitter<number>();
 
   constructor() { }
 
   ngOnInit(): void {
+  }
+  delete(indice:number){
+    this.deleteCita.emit(indice);
   }
 }
