@@ -1,9 +1,16 @@
-<div *ngIf="1==1" class="card card bg-light">
+<div *ngIf="listadoDecitas.length === 0" class="card card bg-light">
     <div class="card-body">
         <h5 class="card-title text-center">
-
-
+            No hay citas para mostrar
         </h5>
-        <button (click)="hola()">hola</button>
+    </div>
+</div>
+<div *ngFor="let cita of listadoDecitas" class="card mb-2">
+    <div class="card-body">
+        <p class="card-text form-group mb-3"> <span>Nombre:</span> {{cita.nombre}} </p>
+        <p class="card-text form-group mb-3"> <span>Fecha:</span> {{cita.fecha}} </p>
+        <p class="card-text form-group mb-3"> <span>Hora:</span> {{cita.hora}} </p>
+        <p class="card-text form-group mb-3"> <span>Sintomas:</span> {{citas.sintomas}} </p>
+        <button style="width: 100%;" class="bnt btn-danger btn-block">ELIMINAR</button>
     </div>
 </div>

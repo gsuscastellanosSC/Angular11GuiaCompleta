@@ -10,10 +10,6 @@ export class AppComponent {
   listDate: any[] = [];
 
   agregarCita(cita: any) {
-    console.log("Soy el padre");
     this.listDate.push(cita);
-    console.log(this.listDate);
   }
 }
-
-

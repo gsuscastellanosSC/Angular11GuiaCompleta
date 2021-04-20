@@ -254,6 +254,8 @@
     78. Crear cita TS
 # Class#79
     79. Output() Crear Cita
+# Class#80
+    80. Input() List Citas
 # Links
     Inputs-outputs:
         https://angular.io/guide/inputs-outputs

@@ -2,9 +2,9 @@
 
 @import '~bootstrap/dist/css/bootstrap.min.css';
 body {
-    background: linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.6)), url('assets/img/business-2846221_1920.jpg');
+    background: linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.6)), url('assets/img/road-220058.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 100%;
 }
