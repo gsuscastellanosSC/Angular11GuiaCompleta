@@ -244,8 +244,10 @@
 # Class#74
     74. Creación del proyecto
         npm cache clean --force
-# Class#75        
+# Class#75
     75. Creación de componentes
+# Class#76    
+    76. Font Google y Bootstrap
 # Links
     Inputs-outputs:
         https://angular.io/guide/inputs-outputs
