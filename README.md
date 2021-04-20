@@ -246,8 +246,10 @@
         npm cache clean --force
 # Class#75
     75. Creación de componentes
-# Class#76    
+# Class#76
     76. Font Google y Bootstrap
+# Class#77    
+    77. Crear cita HTML
 # Links
     Inputs-outputs:
         https://angular.io/guide/inputs-outputs
