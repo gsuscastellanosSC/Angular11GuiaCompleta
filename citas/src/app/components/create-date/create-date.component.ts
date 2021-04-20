@@ -21,10 +21,10 @@ export class CreateDateComponent implements OnInit {
   }
 
   addDate() {
-    /*if (this.nombre === '' || this.fecha === '' || this.hora === '' || this.sintomas === '') {
+    if (this.nombre === '' || this.fecha === '' || this.hora === '' || this.sintomas === '') {
       this.formularioIncorrecto = true;
       return;
-    }*/
+    }
     this.formularioIncorrecto = false;
     const CITA = {
       nombre: this.nombre,
@@ -34,7 +34,7 @@ export class CreateDateComponent implements OnInit {
     }
     console.log(CITA);
     this.listDate.emit(CITA);
-    //this.resetCampos();
+    this.resetCampos();
   }
   resetCampos() {
     this.nombre = '';
