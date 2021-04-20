@@ -244,6 +244,8 @@
 # Class#74
     74. Creación del proyecto
         npm cache clean --force
+# Class#75        
+    75. Creación de componentes
 # Links
     Inputs-outputs:
         https://angular.io/guide/inputs-outputs
