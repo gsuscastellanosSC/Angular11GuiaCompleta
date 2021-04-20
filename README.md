@@ -258,8 +258,10 @@
     80. Input() List Citas
 # Class#81
     81. Output() Eliminar Cita
-# Class#82    
+# Class#82
     82. Deploy
+# Class#82    
+    83. Que vamos a hacer?
 # Links
     Inputs-outputs:
         https://angular.io/guide/inputs-outputs
