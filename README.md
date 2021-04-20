@@ -250,8 +250,10 @@
     76. Font Google y Bootstrap
 # Class#77
     77. Crear cita HTML
-# Class#78    
+# Class#78
     78. Crear cita TS
+# Class#79
+    79. Output() Crear Cita
 # Links
     Inputs-outputs:
         https://angular.io/guide/inputs-outputs

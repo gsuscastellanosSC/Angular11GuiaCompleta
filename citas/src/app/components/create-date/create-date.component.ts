@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, EventEmitter, OnInit, Output } from '@angular/core';
 
 @Component({
   selector: 'app-create-date',
@@ -10,7 +10,9 @@ export class CreateDateComponent implements OnInit {
   fecha = '';
   hora = '';
   sintomas = '';
+
   formularioIncorrecto = false;
+  @Output() listDate = new EventEmitter<any>();
 
   constructor() { }
 
@@ -31,6 +33,7 @@ export class CreateDateComponent implements OnInit {
       sintomas: this.sintomas
     }
     console.log(CITA);
+    this.listDate.emit(CITA);
     this.resetCampos();
   }
   resetCampos() {

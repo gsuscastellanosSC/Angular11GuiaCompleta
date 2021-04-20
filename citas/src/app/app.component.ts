@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'citas';
+  listDate: any[] = [];
+
+  agregarCita(cita: any) {
+    console.log("Soy el padre");
+    this.listDate.push(cita);
+    console.log(this.listDate);
+  }
 }
+
+
