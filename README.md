@@ -248,8 +248,10 @@
     75. Creación de componentes
 # Class#76
     76. Font Google y Bootstrap
-# Class#77    
+# Class#77
     77. Crear cita HTML
+# Class#78    
+    78. Crear cita TS
 # Links
     Inputs-outputs:
         https://angular.io/guide/inputs-outputs
