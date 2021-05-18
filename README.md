@@ -264,6 +264,19 @@
     83. Que vamos a hacer?
 # Class#84    
     84. Creación del Proyecto
+# Class#85
+    85. Creación de componentes y agregamos bootstrap
+        components:
+            ng g c components/gastos
+            presupuesto>ng g c components/ingresar-presupuesto
+            ng g c components/gastos/ingresar-gasto
+            ng g c components/gastos/listar-gasto
+        Services:
+            ng g s services/presupuesto
+        Install bootstrap:
+            npm install bootstrap@next
+            styles.css:
+                @import '~bootstrap/dist/css/bootstrap.min.css';
 # Links
     Inputs-outputs:
         https://angular.io/guide/inputs-outputs
